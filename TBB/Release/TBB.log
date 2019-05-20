@@ -1,0 +1,12 @@
+﻿  TBB.cpp
+TBB.cpp(92): warning C4101: pResult: неиспользованная локальная переменная
+TBB.cpp(93): warning C4101: Size: неиспользованная локальная переменная
+TBB.cpp(91): warning C4101: pVector: неиспользованная локальная переменная
+TBB.cpp(90): warning C4101: pMatrix: неиспользованная локальная переменная
+  Создание кода
+  1 of 134 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  TBB.vcxproj -> G:\visual studio 2015 Projects\Single\Release\TBB.exe
+  TBB.vcxproj -> G:\visual studio 2015 Projects\Single\Release\TBB.pdb (Full PDB)
